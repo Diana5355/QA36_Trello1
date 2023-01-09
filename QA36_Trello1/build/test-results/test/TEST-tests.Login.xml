@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="tests.Login" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-01-09T17:47:56" hostname="Air-Diana.lan" time="11.483">
+<testsuite name="tests.Login" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-01-09T18:03:06" hostname="Air-Diana.lan" time="10.75">
   <properties/>
-  <testcase name="login1" classname="tests.Login" time="11.483"/>
+  <testcase name="login1" classname="tests.Login" time="10.75"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
